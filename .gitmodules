@@ -1,0 +1,3 @@
+[submodule "t_mnist"]
+	path = t_mnist
+	url = https://github.com/baek0429/t_mnist.git
